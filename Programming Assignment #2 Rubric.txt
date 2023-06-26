@@ -1,0 +1,18 @@
+Programming Assignment #2 Rubric
+10 .zip file named taxes.zip and
+Program is named taxes.cpp
+25 Program design is appropriate to task
+15 Program compiles with no errors or warnings
+15 Program accepts numeric (double) input and prints a numeric result
+10 Output is formatted to two decimal places for each test
+10 Test #1: Program gives correct result for $43,200 ($432.00)
+10 Test #2: Program gives correct results for $60,000 ($700.00)
+10 Test #3: Program gives correct result for $550,000 ($23,250.00)
+NOTES:
+After a program was been submitted and graded, you may submit a revised version
+to earn back up to half of the points lost on the original submission
+SOME GENERAL RULES THAT APPLY TO ALL PROGRAMS:
+• make sure that you are following the directions
+• contact me if you have questions about an assignment, or the evaluation
+• avoid the use of break, continue, and goto statements
+• avoid global variables
